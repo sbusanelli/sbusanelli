@@ -3,6 +3,12 @@
   <img src="https://profile-counter.glitch.me/sbusanelli/count.svg" alt="Visitor's Count" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sbusanelli&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Followers">
+  <img src="https://img.shields.io/github/stars/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Total Stars">
+</div>
+
 <img src="https://github.com/sbusanelli/sbusanelli/blob/main/banner.png" alt="Professional Banner" style="width: 100%; max-width: 800px;">
 
 <h1 align="center">
@@ -76,6 +82,14 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbusanelli&theme=radical" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbusanelli&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sbusanelli&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://metrics.lecoq.io/sbusanelli?template=classic&isocalendar=full&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&notable=1&discussions=1&repositories=1" alt="GitHub Metrics"/>
 </div>
 
 ## 🤝 Let's Connect
@@ -90,6 +104,38 @@ Feel free to reach out for collaborations or just to discuss SRE topics!
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sbusanelli/sbusanelli/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+---
+
+## 📊 Additional Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sbusanelli&theme=radical&hide_border=true" alt="Wakatime Stats"/>
+</div>
+
+---
+
+## 🏅 Certifications & Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"/>
+  <img src="https://img.shields.io/badge/Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Administrator"/>
+  <img src="https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate"/>
+</div>
+
+---
+
 <div align="center">
   <i>Building reliable systems, one commit at a time 🚀</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Sreedhar%20Busanelli-E34234?style=for-the-badge" alt="Made with ❤️"/>
 </div>
