@@ -35,7 +35,7 @@
 
 I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with extensive experience in building and maintaining large-scale, high-availability systems. I specialize in ensuring the reliability, performance, and scalability of critical infrastructure that powers millions of users.
 
-### 🔧 Core Expertise
+### 🎯 Core Expertise
 
 - **Systems Reliability**: SRE principles, incident management, post-mortems
 - **Infrastructure as Code**: Terraform, Ansible, automation
@@ -43,6 +43,7 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
 - **Monitoring & Observability**: Prometheus, Grafana, ELK stack
 - **Programming**: Go, Python, Shell scripting
 - **DevOps Practices**: CI/CD pipelines, GitOps, SLOs
+- **AI/ML Engineering**: AgenticAI, LLMs, MCP Servers, AI Skills
 
 ## 🛠️ Technical Skills
 
@@ -55,6 +56,19 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+</p>
+
+### 🤖 AI/ML Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AgenticAI-FF6B6B?style=flat-square&logo=none&logoColor=white" alt="AgenticAI">
+  <img src="https://img.shields.io/badge/LLMs-4285F4?style=flat-square&logo=none&logoColor=white" alt="LLMs">
+  <img src="https://img.shields.io/badge/MCP%20Servers-00C851?style=flat-square&logo=none&logoColor=white" alt="MCP Servers">
+  <img src="https://img.shields.io/badge/AI%20Skills-FF5733?style=flat-square&logo=none&logoColor=white" alt="AI Skills">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Anthropic-CC9933?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic">
+  <img src="https://img.shields.io/badge/LangChain-1C3A6B?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
 ## 📊 GitHub Analytics
