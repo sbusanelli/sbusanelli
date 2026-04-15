@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/github/stars/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Total Stars">
 </div>
 
-<img src="https://github.com/sbusanelli/sbusanelli/blob/main/banner.png" alt="Professional Banner" style="width: 100%; max-width: 800px;">
+<div align="center">
+  <img src="https://img.shields.io/badge/👋%20Senior%20Systems%20Reliability%20Engineer%20at%20T-Mobile-4493F8?style=for-the-badge&logo=none" alt="Professional Header"/>
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Sreedhar+Busanelli!;" />
