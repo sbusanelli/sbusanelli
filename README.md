@@ -58,8 +58,8 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbusanelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbusanelli&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbusanelli&show_icons=true&theme=radical&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbusanelli&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -115,7 +115,8 @@ Feel free to reach out for collaborations or just to discuss SRE topics!
 ## 📊 Additional Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sbusanelli&theme=radical&hide_border=true" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=TLSAIAgent&theme=radical" alt="Featured Repo Pin"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=java-gc-bench-docker&theme=radical" alt="Featured Repo Pin"/>
 </div>
 
 ---
