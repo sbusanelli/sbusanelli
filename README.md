@@ -65,6 +65,7 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
   <img src="https://img.shields.io/badge/LLMs-4285F4?style=flat-square&logo=none&logoColor=white" alt="LLMs">
   <img src="https://img.shields.io/badge/MCP%20Servers-00C851?style=flat-square&logo=none&logoColor=white" alt="MCP Servers">
   <img src="https://img.shields.io/badge/AI%20Skills-FF5733?style=flat-square&logo=none&logoColor=white" alt="AI Skills">
+  <img src="https://img.shields.io/badge/GenerativeAI-9B59B6?style=flat-square&logo=none&logoColor=white" alt="GenerativeAI">
   <img src="https://img.shields.io/badge/API%20Gateways-6C757D?style=flat-square&logo=none&logoColor=white" alt="API Gateways">
   <img src="https://img.shields.io/badge/LangChain-1C3A6B?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/Weaviate-4E8EE7?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate Vector DB">
