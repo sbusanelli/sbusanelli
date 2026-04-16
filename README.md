@@ -83,19 +83,53 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
 
 ## 🏆 Featured Projects
 
+<div align="center">
+
 ### 🔐 [TLSAIAgent](https://github.com/sbusanelli/TLSAIAgent)
 **Production-ready TLS certificate hot-reload agent with graceful shutdown**
+
+<p>
+  <a href="https://github.com/sbusanelli/TLSAIAgent">
+    <img src="https://img.shields.io/github/stars/sbusanelli/TLSAIAgent?style=social" alt="TLSAIAgent Stars"/>
+    <img src="https://img.shields.io/github/forks/sbusanelli/TLSAIAgent?style=social" alt="TLSAIAgent Forks"/>
+    <img src="https://img.shields.io/github/issues/sbusanelli/TLSAIAgent" alt="TLSAIAgent Issues"/>
+  </a>
+</p>
+
+**Key Features:**
 - Go-based service for automatic TLS certificate rotation
 - Zero-downtime certificate updates
 - Comprehensive testing and feature flags
 - **Tech Stack**: Go, TLS, File system monitoring
 
+---
+
 ### ⚡ [java-gc-bench-docker](https://github.com/sbusanelli/java-gc-bench-docker)
 **JVM Garbage Collection performance benchmarking tool**
+
+<p>
+  <a href="https://github.com/sbusanelli/java-gc-bench-docker">
+    <img src="https://img.shields.io/github/stars/sbusanelli/java-gc-bench-docker?style=social" alt="java-gc-bench-docker Stars"/>
+    <img src="https://img.shields.io/github/forks/sbusanelli/java-gc-bench-docker?style=social" alt="java-gc-bench-docker Forks"/>
+    <img src="https://img.shields.io/github/issues/sbusanelli/java-gc-bench-docker" alt="java-gc-bench-docker Issues"/>
+  </a>
+</p>
+
+**Key Features:**
 - Docker-based GC performance analysis
-- Multiple GC algorithm comparisons
+- Multiple GC algorithm comparisons (G1, ZGC, Shenandoah, Parallel, CMS)
+- High-memory benchmarking (16GB, 32GB, 64GB heaps)
 - Performance optimization insights
 - **Tech Stack**: Java, Docker, Benchmarking
+
+</div>
+
+### 📂 View All Repositories
+<div align="center">
+  <a href="https://github.com/sbusanelli?tab=repositories">
+    <img src="https://img.shields.io/badge/📁%20Browse%20All%20Repositories-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories"/>
+  </a>
+</div>
 
 ## 📈 Activity Overview
 
@@ -104,11 +138,39 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbusanelli&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbusanelli&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=sbusanelli&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </a>
+  <br/>
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://img.shields.io/badge/🏆%20View%20All%20Achievements-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Achievements"/>
+  </a>
+</div>
+
+### 📊 Comprehensive GitHub Metrics
+
+<div align="center">
   <img src="https://metrics.lecoq.io/sbusanelli?template=classic&isocalendar=full&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&notable=1&discussions=1&repositories=1" alt="GitHub Metrics"/>
+</div>
+
+### 🎯 Quick Stats
+
+<div align="center">
+  <a href="https://github.com/sbusanelli?tab=stars">
+    <img src="https://img.shields.io/github/stars/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Total%20Stars" alt="Total Stars"/>
+  </a>
+  <a href="https://github.com/sbusanelli?tab=followers">
+    <img src="https://img.shields.io/github/followers/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Followers" alt="Followers"/>
+  </a>
+  <a href="https://github.com/sbusanelli?tab=following">
+    <img src="https://img.shields.io/github/following/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Following" alt="Following"/>
+  </a>
+  <a href="https://github.com/sbusanelli?tab=repositories">
+    <img src="https://img.shields.io/github/repo-count/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Repositories" alt="Repositories"/>
+  </a>
 </div>
 
 ## 🤝 Let's Connect
