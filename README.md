@@ -166,22 +166,10 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
 </div>
 
 ## 📈 Activity Overview
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbusanelli&theme=radical" alt="Activity Graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbusanelli&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/sbusanelli?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=sbusanelli&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
   </a>
   <br/>
   <a href="https://github.com/sbusanelli?tab=achievements">
     <img src="https://img.shields.io/badge/🏆%20View%20All%20Achievements-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Achievements"/>
-  </a>
 </div>
 
 ### 📊 Comprehensive GitHub Metrics
