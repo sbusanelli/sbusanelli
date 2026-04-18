@@ -359,3 +359,41 @@ Feel free to reach out for collaborations or just to discuss SRE and open-source
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Sreedhar%20Busanelli-E34234?style=for-the-badge" alt="Made with ❤️"/>
 </div>
+
+#### 🎯 Recent Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sbusanelli?tab=achievements">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=TLSAIAgent&theme=radical" alt="Featured Project: TLSAIAgent" width="300"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/sbusanelli?tab=achievements">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=java-gc-bench-docker&theme=radical" alt="Featured Project: Java GC Bench" width="300"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/sbusanelli?tab=achievements">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=markitdown&theme=radical" alt="Featured Project: MarkItDown" width="300"/>
+        </a>
+      </td>
+      <td align="center     th      <td align="center     ps://github.com/sbusanel      <tchievements">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=sc-spec-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=sc-spec-         </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### 🏅 Ac#### 🏅 Aad#### 🏅 al#### 🏅 Ac#### 🏅 Aa"https://github.com/sbusanelli?tab=achievements">
+    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shime    <img srim    <img sps://img.shi    <im/badge/🌟%20Starred%20Repository-4493F    <img src="https://img.shie    <img src="https://im="Starred Repository"/>
+  </a>
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://img.shields.io/badge/📈%201000%2B%20Contributions-4493F8?style=for-the-badge&logo=github&l    <img src="https://img.shields.io/badge/📈%201000%2B%20Contributions-4493F8?style=for-the-badge&lements">
+    <img src="https://img.shields.io/badge/🔥%20Public%20Repositories-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+  </a>
+</div>
