@@ -166,9 +166,53 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
     <img src="https://img.shields.io/github/followers/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Followers" alt="Followers"/>
   </a>
   <a href="https://github.com/sbusanelli?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Repositories" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/📁%20Repositories-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </div>
+
+## 🏆 Patents & Innovations
+
+I'm proud to have contributed to innovative solutions in systems reliability and architecture automation, resulting in patents that demonstrate my commitment to advancing technology in the field.
+
+### 📜 Granted Patents
+
+#### 🔧 **Automated Self-Healing Computer Systems**
+**Patent No:** 9,367,379  
+**Innovation:** Revolutionary system for automated detection and resolution of computer system failures, implementing intelligent self-healing mechanisms that minimize downtime and improve system reliability.
+
+**Key Features:**
+- Intelligent failure detection algorithms
+- Automated resolution mechanisms
+- Minimal system downtime
+- Enhanced reliability and availability
+
+**Technologies:** Self-Healing, Automation, System Reliability
+
+---
+
+#### 🏗️ **Custom Objects Architecture Integration**
+**Matter:** P21443US01  
+**Invention Reference:** INV21443  
+**Status:** Pending
+
+**Innovation:** Innovative system and method for generation and integration of Custom Objects into Architecture Diagrams, enabling dynamic and customizable infrastructure visualization and management.
+
+**Key Features:**
+- Dynamic object generation
+- Architecture diagram integration
+- Customizable visualization
+- Infrastructure management
+
+**Technologies:** Architecture, Custom Objects, Integration
+
+---
+
+### 📊 Innovation Impact
+- **2 Patented Innovations** in systems reliability
+- **100% Focus** on reliability and automation
+- **Industry-Leading Solutions** for critical infrastructure
+
+---
 
 ## 🤝 Community Contributions
 
