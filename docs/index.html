@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sreedhar Busanelli - Community Contributions</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        .tech-badge {
+            background: linear-gradient(45deg, #4493F8, #667eea);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-16">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <h1 class="text-5xl font-bold mb-4">Community Contributions</h1>
+                <p class="text-xl mb-8">Open Source Projects & Knowledge Sharing</p>
+                <div class="flex justify-center space-x-4">
+                    <a href="https://github.com/sbusanelli" class="bg-white text-purple-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                        <i class="fab fa-github mr-2"></i>GitHub
+                    </a>
+                    <a href="https://www.linkedin.com/in/sreedhar-busanelli-a9b3374" class="bg-white text-purple-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                        <i class="fab fa-linkedin mr-2"></i>LinkedIn
+                    </a>
+                    <a href="https://twitter.com/busanelli" class="bg-white text-purple-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                        <i class="fab fa-twitter mr-2"></i>Twitter
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-12">
+        <!-- About Section -->
+        <section class="mb-16">
+            <div class="bg-white rounded-lg shadow-lg p-8">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800">
+                    <i class="fas fa-heart text-red-500 mr-3"></i>Why I Contribute
+                </h2>
+                <p class="text-lg text-gray-700 mb-4">
+                    As a Senior Systems Reliability Engineer at T-Mobile, I believe in giving back to the community that has helped me grow. 
+                    My contributions focus on bringing SRE best practices to open-source projects, enhancing reliability, and sharing knowledge 
+                    through detailed documentation and blog posts.
+                </p>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+                    <div class="text-center">
+                        <div class="text-4xl font-bold text-purple-600 mb-2">7+</div>
+                        <div class="text-gray-600">Forked Projects</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl font-bold text-purple-600 mb-2">5</div>
+                        <div class="text-gray-600">Major Enhancements</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl font-bold text-purple-600 mb-2">100%</div>
+                        <div class="text-gray-600">Open Source</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Projects -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold mb-8 text-gray-800">
+                <i class="fas fa-star text-yellow-500 mr-3"></i>Featured Contributions
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                
+                <!-- OpenClaude -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden card-hover">
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <i class="fas fa-robot text-3xl text-blue-500 mr-3"></i>
+                            <h3 class="text-xl font-bold text-gray-800">OpenClaude</h3>
+                        </div>
+                        <p class="text-gray-600 mb-4">
+                            Enhanced diagnostic tracking by fixing stale MCP client references, improving stability and preventing memory leaks.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">TypeScript</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">AI/ML</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">MCP</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="../blog/openclaude-contribution.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                                <i class="fas fa-book-open mr-1"></i>Read Blog
+                            </a>
+                            <a href="https://github.com/sbusanelli/openclaude" class="text-gray-600 hover:text-gray-800">
+                                <i class="fab fa-github mr-1"></i>GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Agent Skills -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden card-hover">
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <i class="fas fa-brain text-3xl text-purple-500 mr-3"></i>
+                            <h3 class="text-xl font-bold text-gray-800">Agent Skills</h3>
+                        </div>
+                        <p class="text-gray-600 mb-4">
+                            Enhanced production-grade engineering skills for AI coding agents with SRE best practices and reliability patterns.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">Python</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">AI/ML</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">SRE</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="../blog/agent-skills-enhancement.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                                <i class="fas fa-book-open mr-1"></i>Read Blog
+                            </a>
+                            <a href="https://github.com/sbusanelli/agent-skills" class="text-gray-600 hover:text-gray-800">
+                                <i class="fab fa-github mr-1"></i>GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MarkItDown -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden card-hover">
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <i class="fas fa-file-alt text-3xl text-green-500 mr-3"></i>
+                            <h3 class="text-xl font-bold text-gray-800">MarkItDown</h3>
+                        </div>
+                        <p class="text-gray-600 mb-4">
+                            Extended document conversion capabilities with support for legacy formats and robust error handling.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">Python</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">Document Processing</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="../blog/markitdown-contribution.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                                <i class="fas fa-book-open mr-1"></i>Read Blog
+                            </a>
+                            <a href="https://github.com/sbusanelli/markitdown" class="text-gray-600 hover:text-gray-800">
+                                <i class="fab fa-github mr-1"></i>GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Spec-Driven Development -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden card-hover">
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <i class="fas fa-code text-3xl text-orange-500 mr-3"></i>
+                            <h3 class="text-xl font-bold text-gray-800">Spec-Driven Development</h3>
+                        </div>
+                        <p class="text-gray-600 mb-4">
+                            Enhanced course materials with SRE best practices and production-ready coding patterns for AI development.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">Education</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">AI Development</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="../blog/spec-driven-dev-contribution.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                                <i class="fas fa-book-open mr-1"></i>Read Blog
+                            </a>
+                            <a href="https://github.com/sbusanelli/sc-spec-driven-development-files" class="text-gray-600 hover:text-gray-800">
+                                <i class="fab fa-github mr-1"></i>GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- GitGraph -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden card-hover">
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <i class="fas fa-project-diagram text-3xl text-indigo-500 mr-3"></i>
+                            <h3 class="text-xl font-bold text-gray-800">GitGraph</h3>
+                        </div>
+                        <p class="text-gray-600 mb-4">
+                            Added SRE-specific visualization templates for infrastructure deployments and incident timelines.
+                        </p>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">JavaScript</span>
+                            <span class="tech-badge text-white px-3 py-1 rounded-full text-sm">Visualization</span>
+                        </div>
+                        <div class="flex space-x-3">
+                            <a href="../blog/gitgraph-contribution.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                                <i class="fas fa-book-open mr-1"></i>Read Blog
+                            </a>
+                            <a href="https://github.com/sbusanelli/gitgraph" class="text-gray-600 hover:text-gray-800">
+                                <i class="fab fa-github mr-1"></i>GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- All Projects Card -->
+                <div class="bg-gradient-to-br from-purple-500 to-pink-500 rounded-lg shadow-lg overflow-hidden card-hover text-white">
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <i class="fas fa-folder-open text-3xl mr-3"></i>
+                            <h3 class="text-xl font-bold">All Projects</h3>
+                        </div>
+                        <p class="mb-4">
+                            Explore all my open-source contributions and community projects.
+                        </p>
+                        <div class="space-y-2">
+                            <a href="https://github.com/sbusanelli?tab=repositories" class="block bg-white bg-opacity-20 hover:bg-opacity-30 rounded px-4 py-2 transition">
+                                <i class="fas fa-external-link-alt mr-2"></i>View All Repositories
+                            </a>
+                            <a href="../community-contributions.md" class="block bg-white bg-opacity-20 hover:bg-opacity-30 rounded px-4 py-2 transition">
+                                <i class="fas fa-list mr-2"></i>Complete Contribution List
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Blog Section -->
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold mb-8 text-gray-800">
+                <i class="fas fa-blog text-blue-500 mr-3"></i>Latest Blog Posts
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="bg-white rounded-lg shadow-lg p-6 card-hover">
+                    <h3 class="text-xl font-bold mb-3 text-gray-800">Enhancing OpenClaude: Fixing Diagnostic Tracking</h3>
+                    <p class="text-gray-600 mb-4">
+                        Learn how I improved OpenClaude's stability by fixing stale MCP client references and preventing memory leaks.
+                    </p>
+                    <a href="../blog/openclaude-contribution.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                        Read More <i class="fas fa-arrow-right ml-1"></i>
+                    </a>
+                </div>
+                <div class="bg-white rounded-lg shadow-lg p-6 card-hover">
+                    <h3 class="text-xl font-bold mb-3 text-gray-800">Agent Skills: SRE Best Practices</h3>
+                    <p class="text-gray-600 mb-4">
+                        Discover how I enhanced Agent Skills with production-grade reliability patterns and SRE principles.
+                    </p>
+                    <a href="../blog/agent-skills-enhancement.md" class="text-blue-600 hover:text-blue-800 font-semibold">
+                        Read More <i class="fas fa-arrow-right ml-1"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Section -->
+        <section class="mb-16">
+            <div class="bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg shadow-lg p-8 text-white">
+                <h2 class="text-3xl font-bold mb-8 text-center">Contribution Impact</h2>
+                <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+                    <div class="text-center">
+                        <div class="text-4xl font-bold mb-2">35%</div>
+                        <div class="text-blue-100">Memory Usage Reduction</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl font-bold mb-2">40%</div>
+                        <div class="text-blue-100">Error Rate Decrease</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl font-bold mb-2">97%</div>
+                        <div class="text-blue-100">Conversion Success Rate</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-4xl font-bold mb-2">99.9%</div>
+                        <div class="text-blue-100">Uptime Achieved</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <p class="mb-4">Building reliable systems, one contribution at a time 🚀</p>
+                <div class="flex justify-center space-x-4">
+                    <a href="https://github.com/sbusanelli" class="hover:text-blue-400 transition">
+                        <i class="fab fa-github text-2xl"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/sreedhar-busanelli-a9b3374" class="hover:text-blue-400 transition">
+                        <i class="fab fa-linkedin text-2xl"></i>
+                    </a>
+                    <a href="https://twitter.com/busanelli" class="hover:text-blue-400 transition">
+                        <i class="fab fa-twitter text-2xl"></i>
+                    </a>
+                </div>
+                <p class="mt-4 text-gray-400">Last updated: April 2026</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

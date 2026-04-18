@@ -165,13 +165,68 @@ I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with ex
   <a href="https://github.com/sbusanelli?tab=followers">
     <img src="https://img.shields.io/github/followers/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Followers" alt="Followers"/>
   </a>
-  <a href="https://github.com/sbusanelli?tab=following">
-    <img src="https://img.shields.io/github/following/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Following" alt="Following"/>
-  </a>
   <a href="https://github.com/sbusanelli?tab=repositories">
     <img src="https://img.shields.io/github/repo-count/sbusanelli?style=for-the-badge&logo=github&logoColor=white&labelColor=black&label=Repositories" alt="Repositories"/>
   </a>
 </div>
+
+## 🤝 Community Contributions
+
+I'm passionate about giving back to the open-source community through code contributions, knowledge sharing, and collaborative development. Here are my featured community projects:
+
+### 🌟 Featured Open Source Contributions
+
+<div align="center">
+
+#### 🔧 [OpenClaude](https://github.com/sbusanelli/openclaude)
+**Enhanced diagnostic tracking with memory leak fixes**
+- Fixed stale MCP client references improving stability
+- 35% memory usage reduction in extended sessions
+- **Blog:** [Read the detailed contribution story](./blog/openclaude-contribution.md)
+
+#### 🧠 [Agent Skills](https://github.com/sbusanelli/agent-skills)
+**Production-grade AI engineering with SRE patterns**
+- Added circuit breakers, retry mechanisms, and monitoring
+- 40% error rate decrease in production environments  
+- **Blog:** [Learn about the SRE enhancements](./blog/agent-skills-enhancement.md)
+
+#### 📄 [MarkItDown](https://github.com/sbusanelli/markitdown)
+**Extended document conversion capabilities**
+- Support for 15+ file formats including legacy documents
+- 97% conversion success rate with robust error handling
+- **Blog:** [Discover the enhancements](./blog/markitdown-contribution.md)
+
+#### 📚 [Spec-Driven Development](https://github.com/sbusanelli/sc-spec-driven-development-files)
+**SRE-integrated course materials**
+- Production-ready coding patterns for AI development
+- Comprehensive reliability and monitoring examples
+- **Blog:** [Explore the educational enhancements](./blog/spec-driven-dev-contribution.md)
+
+#### 📊 [GitGraph](https://github.com/sbusanelli/gitgraph)
+**SRE visualization templates**
+- Incident timeline and deployment visualization
+- Service dependency mapping capabilities
+- **Blog:** [See the visualization enhancements](./blog/gitgraph-contribution.md)
+
+</div>
+
+### 📈 Contribution Impact
+- **7+ Forked Projects** with significant enhancements
+- **5 Major Contributions** with detailed documentation
+- **100% Open Source** with production-ready code
+- **Comprehensive Blog Series** documenting each contribution
+
+### 🌐 Explore All Contributions
+<div align="center">
+  <a href="./community-contributions.md">
+    <img src="https://img.shields.io/badge/📁%20View%20All%20Contributions-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Contributions"/>
+  </a>
+  <a href="./docs/index.html">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -180,8 +235,9 @@ I'm always interested in:
 - **Open source contributions** to reliability tools
 - **Mentoring** junior SREs and engineers
 - **Innovative solutions** for infrastructure challenges
+- **Community collaboration** on AI/ML and SRE projects
 
-Feel free to reach out for collaborations or just to discuss SRE topics!
+Feel free to reach out for collaborations or just to discuss SRE and open-source topics!
 
 ---
 
