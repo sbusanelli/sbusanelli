@@ -175,7 +175,7 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
 ### 📊 Comprehensive GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sbusanelli?template=classic&isocalendar=full&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&notable=1&discussions=1&repositories=1" alt="GitHub Metrics"/>
+  <img src="https://metrics.lecoq.io/sbusanelli?template=classic&isocalendar=full&languages=1&stars=1&followup=1&people=1&activity=4months&achievements=1&notable=1&discussions=1&repositories=1" alt="GitHub Metrics"/>
 </div>
 
 ### 🎯 Quick Stats
