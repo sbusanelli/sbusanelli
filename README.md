@@ -347,6 +347,22 @@ Feel free to reach out for collaborations or just to discuss SRE and open-source
 ---
 
 <div align="center">
+  <i>Building reliable systems, one contribution at a time 🚀</i>
+</div>
+
+---
+
+## 🏆 YOLO Badge Test
+
+*Testing GitHub achievements - this section will be removed after badge is obtained*
+
+<div align="center">
+  <i>🎯 Working on YOLO achievement...</i>
+</div>
+
+---
+
+<div align="center">
   <i>Building reliable systems, one commit at a time 🚀</i>
 </div>
 
