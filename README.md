@@ -294,6 +294,22 @@ I'm passionate about giving back to the open-source community through code contr
 
 ---
 
+## Leadership & Community Impact
+
+### Wreaths Across America
+
+*   **Volunteer (December 2023):** Dedicated time to place wreaths on veterans' graves at Arlington National Cemetery, honoring their service and sacrifice.
+
+### Relay For Life
+
+*   **Team Captain & Fundraiser (2022-2023):** Led a team in the American Cancer Society's Relay For Life event, raising funds for cancer research and supporting those affected by cancer.
+
+### Bala Vihar Program - Chinmaya Mission Kansas City
+
+*   **Volunteer Teacher (2021-2023):** Taught Hindu cultural values, scriptures, and traditions to children aged 6-12, helping preserve cultural heritage and foster spiritual development.
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in:
