@@ -1,0 +1,68 @@
+# Site settings
+title: Sreedhar Busanelli
+description: Senior Systems Reliability Engineer at T-Mobile
+baseurl: ""
+url: "https://sbusanelli.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .git/
+  - .gitignore
+  - .github/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - sre-toolkit/
+
+# Include specific files
+include:
+  - _pages
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
+
+# Default settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# SEO and social
+twitter:
+  username: busanelli
+  card: summary
+
+social:
+  name: Sreedhar Busanelli
+  links:
+    - https://www.linkedin.com/in/sreedhar-busanelli-a9b3374
+    - https://github.com/sbusanelli
+    - https://twitter.com/busanelli
+
+# Google Analytics (optional)
+google_analytics: # Add your tracking ID if needed
+
+# GitHub Pages specific
+safe: true
+lsi: false
