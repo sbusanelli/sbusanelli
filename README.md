@@ -356,27 +356,7 @@ Feel free to reach out for collaborations or just to discuss SRE and open-source
 
 ---
 
-## 🏆 YOLO Badge Test
-
-*Testing GitHub achievements - this section will be removed after badge is obtained*
-
-<div align="center">
-  <i>🎯 Working on YOLO achievement...</i>
-</div>
-
----
-
-<div align="center">
-  <i>Building reliable systems, one commit at a time 🚀</i>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Sreedhar%20Busanelli-E34234?style=for-the-badge" alt="Made with ❤️"/>
-</div>
-
-#### 🎯 Recent Achievements
+## 🏆 Recent Achievements
 
 <div align="center">
   <table>
@@ -398,18 +378,31 @@ Feel free to reach out for collaborations or just to discuss SRE and open-source
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=markitdown&theme=radical" alt="Featured Project: MarkItDown" width="300"/>
         </a>
       </td>
-      <td align="center     th      <td align="center     ps://github.com/sbusanel      <tchievements">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=sc-spec-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=sc-spec-         </a>
+      <td align="center" width="50%">
+        <a href="https://github.com/sbusanelli?tab=achievements">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=sc-spec-driven-development-files&theme=radical" alt="Featured Project: Spec-Driven Development" width="300"/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-#### 🏅 Ac#### 🏅 Aad#### 🏅 al#### 🏅 Ac#### 🏅 Aa"https://github.com/sbusanelli?tab=achievements">
-    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shie    <img src="https://img.shime    <img srim    <img sps://img.shi    <im/badge/🌟%20Starred%20Repository-4493F    <img src="https://img.shie    <img src="https://im="Starred Repository"/>
-  </a>
+#### GitHub Achievements
+
+<div align="center">
   <a href="https://github.com/sbusanelli?tab=achievements">
-    <img src="https://img.shields.io/badge/📈%201000%2B%20Contributions-4493F8?style=for-the-badge&logo=github&l    <img src="https://img.shields.io/badge/📈%201000%2B%20Contributions-4493F8?style=for-the-badge&lements">
-    <img src="https://img.shields.io/badge/🔥%20Public%20Repositories-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+    <img src="https://img.shields.io/badge/View%20All%20Achievements-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Achievements"/>
   </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Building reliable systems, one commit at a time 🚀</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Sreedhar%20Busanelli-E34234?style=for-the-badge" alt="Made with ❤️"/>
 </div>
