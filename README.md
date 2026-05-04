@@ -96,6 +96,7 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
 
 <p align="left">
   <img src="https://img.shields.io/badge/AgenticAI-FF6B6B?style=flat-square&logo=none&logoColor=white" alt="AgenticAI">
+  <img src="https://img.shields.io/badge/A2A%20Protocol-FF1744?style=flat-square&logo=none&logoColor=white" alt="Agent2Agent Protocol">
   <img src="https://img.shields.io/badge/LLMs-4285F4?style=flat-square&logo=none&logoColor=white" alt="LLMs">
   <img src="https://img.shields.io/badge/MCP%20Servers-00C851?style=flat-square&logo=none&logoColor=white" alt="MCP Servers">
   <img src="https://img.shields.io/badge/AI%20Skills-FF5733?style=flat-square&logo=none&logoColor=white" alt="AI Skills">
@@ -155,6 +156,26 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
 - High-memory benchmarking (16GB, 32GB, 64GB heaps)
 - Performance optimization insights
 - **Tech Stack**: Java, Docker, Benchmarking
+
+---
+
+### 🤖 [A2AWalkthrough](https://github.com/sbusanelli/A2AWalkthrough)
+**Comprehensive Agent2Agent Protocol implementation with multiple AI frameworks**
+
+<p>
+  <a href="https://github.com/sbusanelli/A2AWalkthrough">
+    <img src="https://img.shields.io/github/stars/sbusanelli/A2AWalkthrough?style=social" alt="A2AWalkthrough Stars"/>
+    <img src="https://img.shields.io/github/forks/sbusanelli/A2AWalkthrough?style=social" alt="A2AWalkthrough Forks"/>
+    <img src="https://img.shields.io/github/issues/sbusanelli/A2AWalkthrough" alt="A2AWalkthrough Issues"/>
+  </a>
+</p>
+
+**Key Features:**
+- 10-step progressive A2A Protocol implementation
+- Multiple AI frameworks: Google ADK, LangChain/LangGraph, Microsoft Agent Framework, BeeAI
+- Real-world use cases: Insurance, Healthcare, Research agents
+- Sequential agent orchestration and MCP server integration
+- **Tech Stack**: Python, A2A Protocol, Google ADK, LangGraph, BeeAI, Microsoft Agent Framework
 
 </div>
 
@@ -380,7 +401,7 @@ Feel free to reach out for collaborations or just to discuss SRE and open-source
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/sbusanelli?tab=achievements">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=sc-spec-driven-development-files&theme=radical" alt="Featured Project: Spec-Driven Development" width="300"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=A2AWalkthrough&theme=radical" alt="Featured Project: A2AWalkthrough" width="300"/>
         </a>
       </td>
     </tr>
