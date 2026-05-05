@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/sbusanelli/count.svg" alt="Visitor's Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sbusanelli.sbusanelli" alt="Visitors"/>
 </div>
 
 <div align="center">
@@ -27,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://twitter.com/busanelli">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
 
@@ -253,10 +252,11 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
 </div>
 
 ## 📈 Activity Overview
-  </a>
-  <br/>
+
+<div align="center">
   <a href="https://github.com/sbusanelli?tab=achievements">
     <img src="https://img.shields.io/badge/🏆%20View%20All%20Achievements-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Achievements"/>
+  </a>
 </div>
 
 ### 📊 Comprehensive GitHub Metrics
@@ -411,13 +411,13 @@ I believe in sharing knowledge through detailed technical articles and walkthrou
 - Real-world implementation examples
 - Performance optimization techniques
 
-#### 🤖 [Agent2Agent Protocol Implementation](./blog/a2a-protocol-guide.md)
-**Complete walkthrough of multi-framework agent development**
-- Step-by-step implementation guide
-- Framework comparison and best practices
-- Production deployment strategies
+#### 🤖 [The Future of AI-Driven SRE](./blog/the-future-of-ai-driven-sre.md)
+**Exploring AI and machine learning in systems reliability**
+- AI-powered incident prediction and prevention
+- Automated root cause analysis
+- Intelligent capacity planning
 
-#### 🔧 [Open Source Contribution Strategies](./blog/open-source-contributions.md)
+#### 🔧 [Open Source Contributions Guide](./blog/openclaude-contribution.md)
 **How to make meaningful contributions to open source projects**
 - Contribution workflow optimization
 - Community engagement best practices
