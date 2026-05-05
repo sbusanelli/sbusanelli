@@ -159,7 +159,7 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
   <a href="https://github.com/sbusanelli/TLSAIAgent">
     <img src="https://img.shields.io/github/stars/sbusanelli/TLSAIAgent?style=social" alt="TLSAIAgent Stars"/>
     <img src="https://img.shields.io/github/forks/sbusanelli/TLSAIAgent?style=social" alt="TLSAIAgent Forks"/>
-    <img src="https://img.shields.io/github/issues/sbusanelli/TLSAIAgent" alt="TLSAIAgent Issues"/>
+    <img src="https://img.shields.io/github/issues/sbusanelli/TLSAIAgent?style=social" alt="TLSAIAgent Issues"/>
   </a>
 </p>
 
@@ -178,7 +178,7 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
   <a href="https://github.com/sbusanelli/java-gc-bench-docker">
     <img src="https://img.shields.io/github/stars/sbusanelli/java-gc-bench-docker?style=social" alt="java-gc-bench-docker Stars"/>
     <img src="https://img.shields.io/github/forks/sbusanelli/java-gc-bench-docker?style=social" alt="java-gc-bench-docker Forks"/>
-    <img src="https://img.shields.io/github/issues/sbusanelli/java-gc-bench-docker" alt="java-gc-bench-docker Issues"/>
+    <img src="https://img.shields.io/github/issues/sbusanelli/java-gc-bench-docker?style=social" alt="java-gc-bench-docker Issues"/>
   </a>
 </p>
 
@@ -198,7 +198,7 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
   <a href="https://github.com/sbusanelli/A2AWalkthrough">
     <img src="https://img.shields.io/github/stars/sbusanelli/A2AWalkthrough?style=social" alt="A2AWalkthrough Stars"/>
     <img src="https://img.shields.io/github/forks/sbusanelli/A2AWalkthrough?style=social" alt="A2AWalkthrough Forks"/>
-    <img src="https://img.shields.io/github/issues/sbusanelli/A2AWalkthrough" alt="A2AWalkthrough Issues"/>
+    <img src="https://img.shields.io/github/issues/sbusanelli/A2AWalkthrough?style=social" alt="A2AWalkthrough Issues"/>
   </a>
 </p>
 
