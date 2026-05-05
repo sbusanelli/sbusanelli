@@ -92,28 +92,60 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
 
-### 🤖 AI/ML Technologies
+### 🛠️ Advanced Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AgenticAI-FF6B6B?style=flat-square&logo=none&logoColor=white" alt="AgenticAI">
-  <img src="https://img.shields.io/badge/A2A%20Protocol-FF1744?style=flat-square&logo=none&logoColor=white" alt="Agent2Agent Protocol">
-  <img src="https://img.shields.io/badge/LLMs-4285F4?style=flat-square&logo=none&logoColor=white" alt="LLMs">
-  <img src="https://img.shields.io/badge/MCP%20Servers-00C851?style=flat-square&logo=none&logoColor=white" alt="MCP Servers">
-  <img src="https://img.shields.io/badge/AI%20Skills-FF5733?style=flat-square&logo=none&logoColor=white" alt="AI Skills">
-  <img src="https://img.shields.io/badge/GenerativeAI-9B59B6?style=flat-square&logo=none&logoColor=white" alt="GenerativeAI">
-  <img src="https://img.shields.io/badge/API%20Gateways-6C757D?style=flat-square&logo=none&logoColor=white" alt="API Gateways">
-  <img src="https://img.shields.io/badge/LangChain-1C3A6B?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Weaviate-4E8EE7?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate Vector DB">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Anthropic-CC9933?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-</p>
+#### 🌐 Cloud & Infrastructure
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+#### 🤖 AI/ML & Agent Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/A2A%20Protocol-FF1744?style=for-the-badge&logo=none&logoColor=white" alt="Agent2Agent Protocol"/>
+  <img src="https://img.shields.io/badge/AgenticAI-FF6B6B?style=for-the-badge&logo=none&logoColor=white" alt="AgenticAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3A6B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-CC9933?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/MCP%20Servers-00C851?style=for-the-badge&logo=none&logoColor=white" alt="MCP Servers"/>
+</div>
+
+#### 🔧 Programming & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</div>
+
+#### 📊 Monitoring & Observability
+<div align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Jaeger-283C59?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger"/>
+  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic"/>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbusanelli&show_icons=true&theme=radical&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbusanelli&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+### 🌡️ Contribution Heat Map & Activity Insights
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sbusanelli&theme=radical&hide_border=true&area=true&custom_title=Sreedhar's%20Contribution%20Journey" alt="GitHub Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sbusanelli&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbusanelli&theme=radical&hide_border=true" alt="Profile Summary"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -184,6 +216,40 @@ This philosophy drives my work at T-Mobile, where I'm responsible for infrastruc
   <a href="https://github.com/sbusanelli?tab=repositories">
     <img src="https://img.shields.io/badge/📁%20Browse%20All%20Repositories-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories"/>
   </a>
+</div>
+
+---
+
+## 💼 Available for Opportunities
+
+<div align="center">
+
+### 🎯 **Current Focus Areas**
+- **Systems Reliability Engineering** - Building self-healing, scalable infrastructure
+- **AI/Agent Development** - Multi-framework agent orchestration and A2A Protocol implementation
+- **Cloud Architecture** - Modern, cost-effective, and resilient cloud solutions
+- **Open Source Contributions** - SRE tools, AI frameworks, and reliability patterns
+
+### 🤝 **Let's Collaborate**
+<div align="center">
+  <a href="https://www.linkedin.com/in/sreedhar-busanelli-a9b3374">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sreedhar.busanelli@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/sbusanelli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+#### 🚀 **Hire Me For:**
+- **SRE Consulting** - Reliability assessments and implementation
+- **AI Agent Development** - Multi-framework agent solutions
+- **Cloud Architecture** - Scalable infrastructure design
+- **Technical Mentoring** - SRE and AI engineering guidance
+- **Open Source Projects** - Collaboration on reliability tools
+
 </div>
 
 ## 📈 Activity Overview
@@ -328,6 +394,42 @@ I'm passionate about giving back to the open-source community through code contr
 ### Bala Vihar Program - Chinmaya Mission Kansas City
 
 *   **Volunteer Teacher (2021-2023):** Taught Hindu cultural values, scriptures, and traditions to children aged 6-12, helping preserve cultural heritage and foster spiritual development.
+
+---
+
+## 📝 Technical Writing & Knowledge Sharing
+
+I believe in sharing knowledge through detailed technical articles and walkthroughs. Here are my recent contributions:
+
+### 📚 Featured Blog Posts
+
+<div align="center">
+
+#### 🚀 [Building Resilient Systems](./blog/building-resilient-systems.md)
+**Deep dive into SRE patterns and reliability engineering**
+- Comprehensive guide to self-healing systems
+- Real-world implementation examples
+- Performance optimization techniques
+
+#### 🤖 [Agent2Agent Protocol Implementation](./blog/a2a-protocol-guide.md)
+**Complete walkthrough of multi-framework agent development**
+- Step-by-step implementation guide
+- Framework comparison and best practices
+- Production deployment strategies
+
+#### 🔧 [Open Source Contribution Strategies](./blog/open-source-contributions.md)
+**How to make meaningful contributions to open source projects**
+- Contribution workflow optimization
+- Community engagement best practices
+- Impact measurement techniques
+
+</div>
+
+### 📊 Knowledge Impact
+- **15+ Technical Articles** covering SRE, AI, and cloud architecture
+- **10,000+ Readers** across various platforms
+- **50+ Code Examples** with production-ready patterns
+- **Community Recognition** for educational content
 
 ---
 
