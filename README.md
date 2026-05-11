@@ -482,40 +482,41 @@ Feel free to reach out for collaborations or just to discuss SRE and open-source
 ## 🏆 Recent Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/sbusanelli?tab=achievements">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=TLSAIAgent&theme=radical" alt="Featured Project: TLSAIAgent" width="300"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/sbusanelli?tab=achievements">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=java-gc-bench-docker&theme=radical" alt="Featured Project: Java GC Bench" width="300"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/sbusanelli?tab=achievements">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=markitdown&theme=radical" alt="Featured Project: MarkItDown" width="300"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/sbusanelli?tab=achievements">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbusanelli&repo=A2AWalkthrough&theme=radical" alt="Featured Project: A2AWalkthrough" width="300"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-#### GitHub Achievements
+### 🎯 GitHub Achievement Badges
 
 <div align="center">
   <a href="https://github.com/sbusanelli?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20All%20Achievements-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Achievements"/>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck Achievement" width="80" height="80"/>
   </a>
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Achievement" width="80" height="80"/>
+  </a>
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw Achievement" width="80" height="80"/>
+  </a>
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain Achievement" width="80" height="80"/>
+  </a>
+</div>
+
+### 📊 Achievement Stats
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%20Achievements-8+-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="Achievement Count"/>
+  <img src="https://img.shields.io/badge/⭐%20Starstruck-Earned-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck"/>
+  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-Earned-00CED1?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/⚡%20Quickdraw-Earned-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/>
+</div>
+
+#### View All Achievements
+
+<div align="center">
+  <a href="https://github.com/sbusanelli?tab=achievements">
+    <img src="https://img.shields.io/badge/🏆%20View%20All%20Achievements-4493F8?style=for-the-badge&logo=github&logoColor=white" alt="View All Achievements"/>
+  </a>
+</div>
+
 </div>
 
 ---
