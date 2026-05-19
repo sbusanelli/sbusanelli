@@ -25,6 +25,9 @@
   <a href="https://github.com/sbusanelli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://medium.com/@sbusanelli/semver-safe-releases-why-non-breaking-doesnt-always-mean-production-safe-5479c29000d2">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
   <a href="https://twitter.com/busanelli">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
@@ -416,6 +419,12 @@ I believe in sharing knowledge through detailed technical articles and walkthrou
 - AI-powered incident prediction and prevention
 - Automated root cause analysis
 - Intelligent capacity planning
+
+#### 🧩 [SemVer Safe Releases: Why “Non-Breaking” Doesn’t Always Mean Production Safe](https://medium.com/@sbusanelli/semver-safe-releases-why-non-breaking-doesnt-always-mean-production-safe-5479c29000d2)
+**Modern release safety for libraries and services**
+- Why non-breaking changes can still threaten production reliability
+- Practical strategies for semantic versioning and rollout safety
+- Real-world advice for SREs, maintainers, and release engineers
 
 #### 🔧 [Open Source Contributions Guide](./blog/openclaude-contribution.md)
 **How to make meaningful contributions to open source projects**
