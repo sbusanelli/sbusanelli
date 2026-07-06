@@ -9,14 +9,14 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/👋%20Senior%20Systems%20Reliability%20Engineer%20at%20T-Mobile-4493F8?style=for-the-badge&logo=none" alt="Professional Header"/>
+  <img src="https://img.shields.io/badge/👋%20Senior%20Systems%20Reliability%20Engineer%20at%20UMB Financial Corporation-4493F8?style=for-the-badge&logo=none" alt="Professional Header"/>
 </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Sreedhar+Busanelli!;" />
 </h1>
 
-<h3 align="center">Senior Systems Reliability Engineer at T-Mobile</h3>
+<h3 align="center">Senior Systems Reliability Engineer at UMB Financial Corporation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreedhar-busanelli-a9b3374">
@@ -37,7 +37,7 @@
 
 ### 🎯 My Journey: From Systems to Reliability
 
-I'm a passionate **Senior Systems Reliability Engineer** at **T-Mobile** with extensive experience in building and maintaining large-scale, high-availability systems. My journey in technology has been driven by a fundamental belief: **great systems aren't just built—they're evolved incrementally with purpose and precision.**
+I'm a passionate **Senior Systems Reliability Engineer** at **UMB Financial Corporation** with extensive experience in building and maintaining large-scale, high-availability systems. My journey in technology has been driven by a fundamental belief: **great systems aren't just built—they're evolved incrementally with purpose and precision.**
 
 #### 🏗️ **The Architecture Evolution Philosophy**
 
@@ -67,7 +67,7 @@ What excites me most is the intersection of **traditional reliability principles
 
 > **"Reliability isn't about eliminating failures—it's about designing systems that fail gracefully, recover quickly, and learn from every incident."**
 
-This philosophy drives my work at T-Mobile, where I'm responsible for infrastructure that millions depend on daily. It's what motivates my open-source contributions, my patent innovations, and my continuous pursuit of knowledge in this ever-evolving field.
+This philosophy drives my work at UMB Financial Corporation, where I'm responsible for infrastructure that millions depend on daily. It's what motivates my open-source contributions, my patent innovations, and my continuous pursuit of knowledge in this ever-evolving field.
 
 ---
 
