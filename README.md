@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Sreedhar+Busanelli!;" />
 </h1>
 
-<h3 align="center">Senior Systems Reliability Engineer at UMB Financial Corporation</h3>
+<h3 align="center">Information Technology(IT) Strategy Consultant at UMB Financial Corporation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreedhar-busanelli-a9b3374">
@@ -37,7 +37,7 @@
 
 ### 🎯 My Journey: From Systems to Reliability
 
-I'm a passionate **Senior Systems Reliability Engineer** at **UMB Financial Corporation** with extensive experience in building and maintaining large-scale, high-availability systems. My journey in technology has been driven by a fundamental belief: **great systems aren't just built—they're evolved incrementally with purpose and precision.**
+I'm a passionate **Information Technology(IT) Strategy Consultant** at **UMB Financial Corporation** with extensive experience in building and maintaining large-scale, high-availability systems. My journey in technology has been driven by a fundamental belief: **great systems aren't just built—they're evolved incrementally with purpose and precision.**
 
 #### 🏗️ **The Architecture Evolution Philosophy**
 
