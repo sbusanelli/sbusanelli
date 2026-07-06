@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/👋%20Senior%20Systems%20Reliability%20Engineer%20at%20UMB Financial Corporation-4493F8?style=for-the-badge&logo=none" alt="Professional Header"/>
+  <img src="https://img.shields.io/badge/👋%20Information%20Technology(IT)%20Strategy%20Consultant%20at%20UMB%20Financial%20Corporation-4493F8?style=for-the-badge&logo=none" alt="Professional Header"/>
 </div>
 
 <h1 align="center">
